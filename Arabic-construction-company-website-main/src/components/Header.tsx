@@ -20,7 +20,7 @@ const Header: React.FC = () => {
               </div>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-800">القمة</h1>
+              <h1 className="text-2xl font-bold text-gray-800">بناء القمة</h1>   
               <p className="text-sm text-gray-600">للمقاولات العامة</p>
             </div>
           </div>

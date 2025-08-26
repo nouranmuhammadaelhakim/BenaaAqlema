@@ -16,12 +16,12 @@ const Header: React.FC = () => {
           <div className="flex items-center">
             <div className="bg-blue-600 text-white p-2 rounded-lg ml-3">
               <div className="w-8 h-8 flex items-center justify-center font-bold text-lg">
-                ق
+                بناء
               </div>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-800">القمة</h1>
-              <p className="text-sm text-gray-600">للمقاولات العامة</p>
+              <h1 className="text-2xl font-bold text-gray-800">بناء القمة</h1>
+              <p className="text-sm text-gray-600">للمقاولات العامة والتوريدات</p>
             </div>
           </div>
 

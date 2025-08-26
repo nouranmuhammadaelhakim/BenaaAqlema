@@ -10,11 +10,11 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
+/* body {
   font-family: 'Cairo', system-ui, -apple-system, sans-serif;
   direction: rtl;
   text-align: right;
-}
+} */
 
 /* RTL Support */
 [dir="rtl"] {
